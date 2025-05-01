@@ -1,0 +1,31 @@
+body {
+    background-image: url('./scene.jpg');
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.Middle {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10em;
+}
+
+.image {
+    height: 200px;
+    width: 200px;
+}
+   
+.Tag {
+    font-size: 2em;
+    color: black;
+}
+
+.change {
+    font-size: 3em;
+    margin: 3em;
+    color :white;
+}
+
+.Tail {
+    color : black;
+}
