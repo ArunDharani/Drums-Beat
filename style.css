@@ -1,6 +1,9 @@
 body {
     background-image: url('./scene.jpg');
     font-family: 'Times New Roman', Times, serif;
+    background-size: cover;       
+    background-position: center;  
+    background-repeat: no-repeat;
 
 }
 .Middle {
